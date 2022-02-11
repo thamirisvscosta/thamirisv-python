@@ -1,0 +1,5 @@
+d = int(input('\033[33m Qual dia você nasceu? '))
+m = str(input('\033[35m Qual mês você nasceu? '))
+a = int(input('\033[34m Qual ano você nasceu? '))
+print(f'Que legal! Você nasceu em {d} de {m} de {a}')
+print('Que legal! Você nasceu em {} de {} de {}'.format(d,m,a))
