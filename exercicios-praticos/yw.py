@@ -3,7 +3,7 @@ import moviepy.editor as mp
 import os
 
 # Insira o link do vídeo que você deseja baixar
-link = "https://www.youtube.com/watch?v=SGjfxbARo1A&list=RDSGjfxbARo1A&start_radio=1"
+link = "https://www.youtube.com/watch?v=y32ejtuxSjM"
 
 # Cria uma instância do objeto YouTube
 yt = YouTube(link)
